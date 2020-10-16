@@ -1,0 +1,14 @@
+.login-container {
+  height: 100vh;
+}
+.login-form {
+  
+  height: 500px;
+  margin:0 auto;
+  border: 1px solid black;
+}
+@media only screen and (min-width: 768px) {
+.login-form{
+  width: 500px;
+}
+}
